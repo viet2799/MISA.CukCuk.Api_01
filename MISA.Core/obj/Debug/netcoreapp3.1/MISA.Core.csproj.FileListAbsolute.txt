@@ -1,0 +1,9 @@
+F:\Api\MISA.CukCuk.02\MISA.Core\bin\Debug\netcoreapp3.1\MISA.Core.deps.json
+F:\Api\MISA.CukCuk.02\MISA.Core\bin\Debug\netcoreapp3.1\MISA.Core.dll
+F:\Api\MISA.CukCuk.02\MISA.Core\bin\Debug\netcoreapp3.1\MISA.Core.pdb
+F:\Api\MISA.CukCuk.02\MISA.Core\obj\Debug\netcoreapp3.1\MISA.Core.csprojAssemblyReference.cache
+F:\Api\MISA.CukCuk.02\MISA.Core\obj\Debug\netcoreapp3.1\MISA.Core.AssemblyInfoInputs.cache
+F:\Api\MISA.CukCuk.02\MISA.Core\obj\Debug\netcoreapp3.1\MISA.Core.AssemblyInfo.cs
+F:\Api\MISA.CukCuk.02\MISA.Core\obj\Debug\netcoreapp3.1\MISA.Core.csproj.CoreCompileInputs.cache
+F:\Api\MISA.CukCuk.02\MISA.Core\obj\Debug\netcoreapp3.1\MISA.Core.dll
+F:\Api\MISA.CukCuk.02\MISA.Core\obj\Debug\netcoreapp3.1\MISA.Core.pdb
